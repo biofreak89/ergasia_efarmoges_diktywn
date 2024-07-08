@@ -23,19 +23,21 @@
   }
 /* styles.css */
 body {
+    background-color: #39a848; /* background color */
     font-family: Arial, sans-serif;
     margin: 20px;
   }
   
   .navbar-brand {
+    background-color: #fcfafc;
     font-weight: bold;
   }
-  
+  /*kouti*/
   .container {
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
+    background-color: #4581db;
+    border: 1px solid #f71b1b;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
